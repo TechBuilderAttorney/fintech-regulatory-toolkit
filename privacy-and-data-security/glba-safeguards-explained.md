@@ -15,7 +15,7 @@ The GLBA Safeguards Rule (16 C.F.R. Part 314) implements the security provisions
 ## Who Does it Cover- The Threshold Question: "Significantly Engaged" (See GLBA-Explained)
 
 Applies to any business **significantly engaged** in financial activities under GLBA — the same coverage test as the Privacy Rule.
-The Safeguards Rule also covers **"finders"** — companies that connect consumers with financial institutions for financial products.
+ADDITIONALLY, the Safeguards Rule also covers **"finders"** — companies that connect consumers with financial institutions for financial products.
 
 ## Core Requirements
 

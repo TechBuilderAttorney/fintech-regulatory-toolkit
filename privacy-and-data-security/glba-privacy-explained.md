@@ -1,4 +1,4 @@
-### GLBA Privacy Rule – Coverage Test: "Significantly Engaged"
+### GLBA Privacy Rule – Coverage Test: "Significantly Engaged" in Financial Activities (See GLBA-Explained)
 
 ## Purpose of the GLBA Privacy Rule
 

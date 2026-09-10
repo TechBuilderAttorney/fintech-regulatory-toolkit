@@ -1,6 +1,6 @@
 ### TILA / Regulation Z – Explanatory Note
 
-**Source:** CFPB, 12 C.F.R. Part 1026 (Regulation Z), implementing the Truth in Lending Act.
+**Purpose:** Regulation Z implements TILA. TILA is the statute; Reg Z is the CFPB's rule that carries it into effect.
 
 **Rule:** Covered creditors must provide clear, upfront disclosure of key credit terms **before** a consumer becomes obligated on a consumer credit transaction. Applies to any creditor that regularly extends consumer credit.
 
@@ -19,7 +19,7 @@
 - **Advertising rules** – Triggering terms (e.g., "no down payment," specific APR) require additional disclosures.
 - **Common pitfalls** – Late fees, origination fees, misleading advertising, failure to disclose before commitment.
 
-**Purpose:** Regulation Z implements TILA. TILA is the statute; Reg Z is the CFPB's rule that carries it into effect.
+**Source:** CFPB, 12 C.F.R. Part 1026 (Regulation Z), implementing the Truth in Lending Act.
 
 **Key takeaways:**
 - TILA/Reg Z = disclosure of credit terms, not a prohibition on conduct.

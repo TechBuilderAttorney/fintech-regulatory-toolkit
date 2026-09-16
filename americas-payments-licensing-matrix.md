@@ -18,7 +18,7 @@
 - [7. Key Decision Points](#7-key-decision-points)
 - [8. Sources & Citations](#8-sources--citations)
 - [9. Open Questions / Research Gaps](#9-open-questions--research-gaps)
-- [10. Colombia, Argentina, Chile & Peru](#10-Licensing Requirements- Colombia-Argentina-Chile-Peru)
+- [10. Colombia, Argentina, Chile & Peru](#10-licensing-requirements--colombia-argentina-chile--peru)
 ---
 
 ## 1. Canada — Federal Layer (FINTRAC MSB/FMSB)

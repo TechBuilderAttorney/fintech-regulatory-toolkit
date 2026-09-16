@@ -4,7 +4,6 @@
 
 **Last Updated:** September 2026  
 **Jurisdictions:** United States (federal + state overview), Canada (federal + key provinces), Mexico, Brazil  
-**Excluded:** Colombia — insufficient detail in available sources for a reliable matrix row (see [§6](#6-colombia--preliminary-notes-incomplete))
 
 ---
 

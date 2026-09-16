@@ -14,12 +14,11 @@
 - [3. Mexico — CNBV / Fintech Law (Ley Fintech 2018)](#3-mexico--cnbv--fintech-law-ley-fintech-2018)
 - [4. Brazil — Banco Central do Brasil (BCB)](#4-brazil--banco-central-do-brasil-bcb)
 - [5. United States — Federal + State Overview](#5-united-states--federal--state-overview)
-- [6. Colombia — Preliminary Notes (Incomplete)](#6-colombia--preliminary-notes-incomplete)
-- [7. Comparative Summary Table](#7-comparative-summary-table)
-- [8. Key Decision Points](#8-key-decision-points)
-- [9. Sources & Citations](#9-sources--citations)
-- [10. Open Questions / Research Gaps](#10-open-questions--research-gaps)
-
+- [6. Comparative Summary Table](#6-comparative-summary-table)
+- [7. Key Decision Points](#7-key-decision-points)
+- [8. Sources & Citations](#8-sources--citations)
+- [9. Open Questions / Research Gaps](#9-open-questions--research-gaps)
+- [10. Columbia, Argentina, Chile & Peru / Research Gaps](#10-Licensing Requirements- Colombia-Argentina-Chile-Peru)
 ---
 
 ## 1. Canada — Federal Layer (FINTRAC MSB/FMSB)
@@ -167,19 +166,7 @@
 
 ---
 
-## 6. Colombia — Preliminary Notes (Incomplete)
-
-Colombia's regime is **less documented** in available sources. Key findings:
-
-- **Lead regulator**: Superintendencia Financiera de Colombia (SFC)
-- **Core law**: Law 2222 of 2022 (Fintech)
-- **Remittance/FX**: Must operate through **Intermediarios del Mercado Cambiario (IMC)** — includes banks, financial corporations, brokerage firms, and **Sociedades Especializadas en Depósitos y Pagos Electrónicos**
-- **Approval timeline**: 6–12 months for SFC authorization
-- **Entry capital**: COP 500M (Financial Group)
-
----
-
-## 7. Comparative Summary Table
+## 6. Comparative Summary Table
 
 | Jurisdiction | Payments | E-money | FX | Remittance | Card Issuing | Stored Value | Est. Timeline | Capital Min | Physical Office |
 |--------------|----------|---------|----|-----------|-------------|-------------|--------------|-------------|-----------------|
@@ -193,7 +180,7 @@ Colombia's regime is **less documented** in available sources. Key findings:
 
 ---
 
-## 8. Key Decision Points
+## 7. Key Decision Points
 
 ### For Canada Entry
 
@@ -224,7 +211,7 @@ Colombia's regime is **less documented** in available sources. Key findings:
 
 ---
 
-## 9. Sources & Citations
+## 8. Sources & Citations
 
 - **Canada FINTRAC**: 
 - **Canada Quebec AMF**: 
@@ -237,26 +224,24 @@ Colombia's regime is **less documented** in available sources. Key findings:
 
 ---
 
-## 10. Open Questions / Research Gaps
+## 9. Open Questions / Research Gaps
 
 1. **US state-by-state MTL requirements** — specific states (NY, CA, TX, FL) and timelines not covered
-2. **Colombia payments/e-money licensing** — Law 2222/2022 implementing decrees need targeted legal research
-3. **Mexico IFPE processing timeline** — sources describe requirements but not specific processing timeframes
-4. **Canada BC BCFSA registration timeline** — Bill 19 rules still developing; no published timeline
-5. **Interchange/card network rules** — Visa/Mastercard sponsorship requirements not covered (separate from licensing)
+2. **Canada BC BCFSA registration timeline** — Bill 19 rules still developing; no published timeline
+3. **Interchange/card network rules** — Visa/Mastercard sponsorship requirements not covered (separate from licensing)
 
 ---
 
-## 11. Tier 2 Expansion Markets — Licensing Requirements
+## 10. Licensing Requirements- Colombia, Argentina, Chile & Peru
 
 > **Market Coverage:** Brazil and Mexico alone represent roughly 60–65% of regional fintech activity.
 > Adding Colombia, Argentina, Chile, and Peru brings coverage to ~85–90%.
 
-This section covers the four Tier 2 markets: **Argentina, Chile, Peru, and Colombia**. Each entry covers payments, e-money, FX, remittance, card issuing, and stored value requirements.
+This section covers the markets: **Argentina, Chile, Peru, and Colombia**. Each entry covers payments, e-money, FX, remittance, card issuing, and stored value requirements.
 
 ---
 
-### 11.1 Argentina — BCRA
+### 10.1 Argentina — BCRA
 
 | Function | Regulator | Licence/Registration | Key Requirements | Timeline |
 |----------|-----------|---------------------|------------------|----------|
@@ -282,7 +267,7 @@ This section covers the four Tier 2 markets: **Argentina, Chile, Peru, and Colom
 
 ---
 
-### 11.2 Chile — CMF
+### 10.2 Chile — CMF
 
 | Function | Regulator | Licence/Registration | Key Requirements | Timeline |
 |----------|-----------|---------------------|------------------|----------|
@@ -312,7 +297,7 @@ This section covers the four Tier 2 markets: **Argentina, Chile, Peru, and Colom
 
 ---
 
-### 11.3 Peru — SBS
+### 10.3 Peru — SBS
 
 | Function | Regulator | Licence/Registration | Key Requirements | Timeline |
 |----------|-----------|---------------------|------------------|----------|
@@ -341,7 +326,7 @@ This section covers the four Tier 2 markets: **Argentina, Chile, Peru, and Colom
 
 ---
 
-### 11.4 Colombia — SFC
+### 10.4 Colombia — SFC
 
 | Function | Regulator | Licence/Registration | Key Requirements | Timeline |
 |----------|-----------|---------------------|------------------|----------|
@@ -368,7 +353,7 @@ This section covers the four Tier 2 markets: **Argentina, Chile, Peru, and Colom
 
 **Regulatory Environment:** Colombia has a mature fintech framework; market open to foreign investment requiring local incorporation and SFC authorization for financial activities.
 
-### 11.5 Key Takeaways
+### 10.5 Key Takeaways
 
 1. **Local incorporation is mandatory** in all four jurisdictions — no cross-border passporting
 2. **Argentina is the fastest and cheapest** to enter (free registration, 3–6 months) but has FX controls and foreign entity restrictions

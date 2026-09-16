@@ -248,4 +248,151 @@ Colombia's regime is **less documented** in available sources. Key findings:
 
 ---
 
+## 11. Tier 2 Expansion Markets — Licensing Requirements
+
+> **Market Coverage:** Brazil and Mexico alone represent roughly 60–65% of regional fintech activity.
+> Adding Colombia, Argentina, Chile, and Peru brings coverage to ~85–90%.
+
+This section covers the four Tier 2 markets: **Argentina, Chile, Peru, and Colombia**. Each entry covers payments, e-money, FX, remittance, card issuing, and stored value requirements.
+
+---
+
+### 11.1 Argentina — BCRA
+
+| Function | Regulator | Licence/Registration | Key Requirements | Timeline |
+|----------|-----------|---------------------|------------------|----------|
+| **Payments** | BCRA | PSP Registration (Registry of Payment Service Providers) | Local incorporation (SA/SRL); CUIT; criminal background certificates for 10%+ shareholders and management; compliance officer (primary + alternate); sponsoring bank identification | 3–6 months |
+| **E-money** | BCRA | PSP + Interoperable Digital Wallet Registration | Separate registration for e-wallets; PCT integration certification with all acquirers; technology and security officers designated | Additional 2–4 months |
+| **FX** | BCRA | PSP + FX authorization | Argentina maintains FX controls; specific BCRA authorization required for cross-border FX | Varies |
+| **Remittance** | BCRA | PSP Registration | Must report sponsoring banks; compliance officer registered with UIF (Financial Intelligence Unit) | Same as PSP |
+| **Card Issuing** | BCRA | PSP (if issuing payment instruments) | Card issuance tied to payment account provision; may require additional BCRA authorization | Same as PSP |
+| **Stored Value** | BCRA | PSP + Wallet Registration | Digital wallet services require separate registry entry; certification of QR interoperability | Additional 2–4 months |
+
+**Key Facts:**
+
+- **Registration is free** through ARCA (tax authority) online platform; requires Fiscal Code Level 3
+- **Six-month rule:** PSPs must commence operations within **6 months** of registration or face automatic deregistration
+- **New PSPCP as a Service category** (Communication "A" 8432/2026): allows PSPs to offer payment accounts to third-party service recipients via integrated UI; cannot serve foreign entities not incorporated in Argentina
+- **Operation start deadline extended** from 6 to 12 months for certain PSPs under new framework
+- **Existing PSPs** had 90 calendar days to adapt to new framework (from May 2026)
+- **Inactivity deregistration:** 180 consecutive days of inactivity triggers deregistration
+
+**Required Documents:** Articles of incorporation; shareholding composition (including ultimate human persons); operational and commercial description per registered function; affidavits from legal representative.
+
+**Foreign Entity Restriction:** PSPCP as a Service providers may not offer services to foreign entities not regularly incorporated in Argentina.
+
+---
+
+### 11.2 Chile — CMF
+
+| Function | Regulator | Licence/Registration | Key Requirements | Timeline |
+|----------|-----------|---------------------|------------------|----------|
+| **Payments** | CMF | Payment Initiation Provider (PIP) Registration | Registration in Financial Services Providers Register (FSPR); CMF authorization; operational capacity certification; governance and risk management standards; cybersecurity compliance | 6–12 months |
+| **E-money** | CMF | Not a separate category | Chile does not have a standalone e-money licence; e-money may fall under payment services or other regulated activities | — |
+| **FX** | CMF/BCCh | Separate FX authorization | FX operations regulated separately; consult BCCh (Central Bank) | — |
+| **Remittance** | CMF | Payment Initiation Provider | Cross-border payment initiation subject to CMF authorization | Same as PIP |
+| **Card Issuing** | CMF | Not a standalone licence | Card issuance by banks/regulated entities; fintech card programs require partner bank | — |
+| **Stored Value** | CMF | May fall under payment services | No standalone stored-value regime; depends on structure | — |
+
+**Key Facts:**
+
+- **Ley Fintech (Law 21.521)** enacted January 2023; full implementation ongoing
+- **NCG No. 514** establishes Open Finance System (SFA) framework; **NCG No. 569** (June 2026) adds technical rules
+- **APIs are the only mechanism** for information exchange within SFA; development responsibility on Information Providers and Account Providers
+- **Implementation timeline:** NCG 569 provisions take effect **36 months** from first publication of NCG 514 (i.e., **July 2027**), with gradual rollout over 5–30 months depending on entity type
+- **60-day pilot period** for each API before service levels and transaction limits apply
+- **Simplified Participation regime** for Information Providers with fewer than 100,000 unique clients
+- **Exclusive corporate purpose:** Regulated entities generally must have sole corporate purpose as provision of regulated services; exceptions exist for advisory/crowdfunding services to qualified investors only
+- **Foreign entities** must establish locally incorporated company or registered agency; **no reverse solicitation exemption**
+
+**Governance Requirements:** Corporate governance and risk management evaluation methodology affects minimum equity requirements for intermediaries and custodians.
+
+**AML:** Law No. 19.913; reporting entities must implement governance, risk management, internal controls; customer due diligence and transaction monitoring required.
+
+**Cybersecurity:** Framework Law on Cybersecurity created ANCI; OIVs must implement ISO/IEC 27001, appoint CISO, report to CSIRT.
+
+---
+
+### 11.3 Peru — SBS
+
+| Function | Regulator | Licence/Registration | Key Requirements | Timeline |
+|----------|-----------|---------------------|------------------|----------|
+| **Payments** | SBS | Electronic Money Institution (EMI) Licence | Minimum capital: PEN 500,000 (~USD 135,000); fully paid-in; local incorporation; operational plan; risk management system; AML program; cybersecurity policy | 6–12 months |
+| **E-money** | SBS | EMI Licence (Law 29985) | Core regime under Law 29985 and SBS Resolution 6284-2013 (amended 2026); e-money issuance authorized activity | Same as EMI |
+| **FX** | SBS | Separate authorization | FX services require specific authorization; may be provided by banks or licensed entities | Varies |
+| **Remittance** | SBS | Fund Transfer Company (ETF) Licence | Separate licence under SBS Resolution 1025-2005; or via EMI if structured appropriately | 6–12 months |
+| **Card Issuing** | SBS | EMI or banking licence | Non-bank card issuance requires EMI licence; must partner with licensed financial institution for settlement | Same as EMI |
+| **Stored Value** | SBS | EMI Licence | E-money accounts constitute stored value; governed by Law 29985 | Same as EMI |
+
+**Key Facts:**
+
+- **Two-stage authorization:** (i) organizational licence; (ii) operating licence
+- **Minimum capital:** PEN 500,000 (~USD 135,000), fully paid-in and periodically adjusted by SBS
+- **Legal costs:** Estimated USD 30,000–50,000; total timeline ~12 months
+- **All documentation must be filed in Spanish**, including description of technological infrastructure
+- **Segregated accounts required:** Client funds must be held in dedicated accounts at licensed Peruvian bank; no commingling
+- **UIF registration:** Must register as reporting entity with Financial Information Unit for AML/CFT
+- **2026 regulatory update:** SBS Resolution 01881-2026 modified EMI regulations to incorporate fund transfer provisions, addressing interoperability-driven increases and cross-border transfer oversight
+- **Regulatory Sandbox:** SBS Innovation Sandbox (Resolution 04142-2025) expanded to allow unsupervised legal entities to participate in pilot tests
+- **Wallets:** Not independently regulated; must operate in partnership with a licensed financial institution
+
+**Permitted Operations:** EEDEs may perform operations under Ley General Article 221 numerals 11, 17–23, 28, 29, 42; additional operations require prior SBS authorization.
+
+**Tax incentive:** E-money issuance exempt from IGV (VAT) for 3 years from law's effective date.
+
+---
+
+### 11.4 Colombia — SFC
+
+| Function | Regulator | Licence/Registration | Key Requirements | Timeline |
+|----------|-----------|---------------------|------------------|----------|
+| **Payments** | Bank of the Republic (BR) + SFC | Payment Service Provider (PSP) | Local incorporation (Colombian corporation with Chamber of Commerce); SFC authorization if holding funds; BR registration for payment systems (CENIT/SPBVI) | 6–12 months |
+| **E-money** | SFC | Electronic Money Issuer | New regime under Law 2222 of 2022; SFC authorization required | 6–12 months |
+| **FX** | SFC | PSP + FX authorization | FX services require SFC authorization | Same as PSP |
+| **Remittance** | SFC | PSP | Cross-border remittance requires SFC approval | Same as PSP |
+| **Card Issuing** | SFC | Not standalone | Card issuance typically via banks; non-bank programs require partner bank | — |
+| **Stored Value** | SFC | Electronic Money Issuer | Covered under e-money regime | 6–12 months |
+
+**Key Facts:**
+
+- **Lead regulator:** Superintendencia Financiera de Colombia (SFC)
+- **Core laws:** Law 1328 of 2009 (Financial Group) and Law 2222 of 2022 (Fintech)
+- **Entry capital:** COP 500 million (Financial Group)
+- **Approval timeline:** 6–12 months for SFC authorization
+- **Customer assets:** Segregated in financial institution accounts
+- **Data protection:** Law 1581 of 2012; Superintendencia de Industria y Comercio (SIC) oversees
+- **Sandbox:** Yes — Regulatory Sandbox (SFC)
+- **Market-entry checklist:** (1) Incorporate local entity with Chamber of Commerce; (2) Apply for SFC license; (3) Register with BR for payment systems; (4) Implement AML/KYC per Law 1955 of 2019
+- **Payment systems:** BR oversees under Circular 008 of 2016; 2026 updates address interoperability, Centralized Directory (DICE), settlement mechanisms
+- **Agent networks:** Rules under development — verify with regulator
+- **Open banking:** Framework in progress — status uncertain
+
+**Regulatory Environment:** Colombia has a mature fintech framework; market open to foreign investment requiring local incorporation and SFC authorization for financial activities.
+
+---
+
+### 11.5 Tier 2 Comparative Summary
+
+| Jurisdiction | Regulator | Entry Capital | Timeline | Physical Office | Local Incorporation | Sandbox |
+|--------------|-----------|--------------|----------|-----------------|---------------------|---------|
+| **Argentina** | BCRA | None specified | 3–6 months | Required | Required (SA/SRL) | No |
+| **Chile** | CMF | Varies by activity | 6–12 months | Required | Required | Yes (Sandbox) |
+| **Peru** | SBS | PEN 500,000 | 6–12 months | Required | Required | Yes (SBS Innovation) |
+| **Colombia** | SFC + BR | COP 500M (Financial Group) | 6–12 months | Required | Required | Yes (SFC) |
+
+---
+
+### 11.6 Tier 2 Key Takeaways
+
+1. **Local incorporation is mandatory** in all four jurisdictions — no cross-border passporting
+2. **Argentina is the fastest and cheapest** to enter (free registration, 3–6 months) but has FX controls and foreign entity restrictions
+3. **Chile has the most complex regime** (Fintech Law + open finance implementation through 2027) but also the most developed open banking framework
+4. **Peru has the highest minimum capital** relative to market size (PEN 500,000) but a clear e-money regime under Law 29985
+5. **Colombia is the most mature framework** (Law 2222/2022) with a clear sandbox and market-entry checklist
+6. **All four require local physical presence** and local incorporation
+7. **Sandbox availability:** Chile, Peru, and Colombia have operational sandboxes; Argentina does not
+
+---
+---
+
 *Matrix compiled from regulatory sources and legal analysis as of September 2026. Not legal advice. Verify all requirements with local counsel before filing.*

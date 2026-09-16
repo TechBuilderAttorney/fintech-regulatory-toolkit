@@ -369,20 +369,7 @@ This section covers the four Tier 2 markets: **Argentina, Chile, Peru, and Colom
 
 **Regulatory Environment:** Colombia has a mature fintech framework; market open to foreign investment requiring local incorporation and SFC authorization for financial activities.
 
----
-
-### 11.5 Tier 2 Comparative Summary
-
-| Jurisdiction | Regulator | Entry Capital | Timeline | Physical Office | Local Incorporation | Sandbox |
-|--------------|-----------|--------------|----------|-----------------|---------------------|---------|
-| **Argentina** | BCRA | None specified | 3–6 months | Required | Required (SA/SRL) | No |
-| **Chile** | CMF | Varies by activity | 6–12 months | Required | Required | Yes (Sandbox) |
-| **Peru** | SBS | PEN 500,000 | 6–12 months | Required | Required | Yes (SBS Innovation) |
-| **Colombia** | SFC + BR | COP 500M (Financial Group) | 6–12 months | Required | Required | Yes (SFC) |
-
----
-
-### 11.6 Tier 2 Key Takeaways
+### 11.5 Key Takeaways
 
 1. **Local incorporation is mandatory** in all four jurisdictions — no cross-border passporting
 2. **Argentina is the fastest and cheapest** to enter (free registration, 3–6 months) but has FX controls and foreign entity restrictions
@@ -392,7 +379,6 @@ This section covers the four Tier 2 markets: **Argentina, Chile, Peru, and Colom
 6. **All four require local physical presence** and local incorporation
 7. **Sandbox availability:** Chile, Peru, and Colombia have operational sandboxes; Argentina does not
 
----
----
+
 
 *Matrix compiled from regulatory sources and legal analysis as of September 2026. Not legal advice. Verify all requirements with local counsel before filing.*
